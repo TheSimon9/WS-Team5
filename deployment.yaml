@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: ws-monolith
-          image: WsTeam5:TAG
+          image: wsteam5:TAG
           ports:
             - containerPort: 80
 
